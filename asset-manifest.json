@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/react-bs-deploy/static/js/main.8f756dbf.chunk.js",
+    "main.js.map": "/react-bs-deploy/static/js/main.8f756dbf.chunk.js.map",
+    "runtime-main.js": "/react-bs-deploy/static/js/runtime-main.33d94160.js",
+    "runtime-main.js.map": "/react-bs-deploy/static/js/runtime-main.33d94160.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-bs-deploy/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4da33005.chunk.js": "/react-bs-deploy/static/js/2.4da33005.chunk.js",
+    "static/js/2.4da33005.chunk.js.map": "/react-bs-deploy/static/js/2.4da33005.chunk.js.map",
+    "index.html": "/react-bs-deploy/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-bs-deploy/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.4da33005.chunk.js.LICENSE.txt": "/react-bs-deploy/static/js/2.4da33005.chunk.js.LICENSE.txt",
+    "static/media/pex1.4cfbdcfc.jpg": "/react-bs-deploy/static/media/pex1.4cfbdcfc.jpg",
+    "static/media/pex2.ee8a8514.jpg": "/react-bs-deploy/static/media/pex2.ee8a8514.jpg",
+    "static/media/pex3.bb12c8ea.jpg": "/react-bs-deploy/static/media/pex3.bb12c8ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33d94160.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4da33005.chunk.js",
+    "static/js/main.8f756dbf.chunk.js"
+  ]
+}
